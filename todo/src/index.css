@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    max-width: 1220px;
+    margin: 0 auto;
+  
+    font-style: normal;
+    font: 400 18px Arial;
+    color: #23194b;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  input {
+    outline: none;
+  }
+  
+  ul li,
+  ol li {
+    list-style-type: none;
+  }
